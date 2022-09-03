@@ -1,6 +1,6 @@
-# unity-3d-graph
+# Unity 3D Graph
 
-A 3D object graph, from Cat Like Coding's tutorial.
+A 3D object graph, from Catlike Coding's tutorial.
 
 I also made it so you can adjust the resolution in realtime.
 
